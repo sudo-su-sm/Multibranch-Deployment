@@ -7,7 +7,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "awslinux88/multibranch-app"
-        GIT_USER   = "awslinux88"
+        GIT_USER   = "sudo-su-sm"
         GIT_EMAIL  = "awslinux88@gmail.com"
     }
 
