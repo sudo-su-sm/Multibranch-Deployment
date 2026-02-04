@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: movie-app
-        image: awslinux88/multibranch-app:build-13
+        image: awslinux88/multibranch-app:build-2
         ports:
         - containerPort: 5000
